@@ -6,5 +6,5 @@
 
 ## Screenshots
 
-![](/Assets/readme1.jpg)
-![](/Assets/readme2.jpg)
+![](/Assets/readme1.png)
+![](/Assets/readme2.png)
